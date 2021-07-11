@@ -1,4 +1,6 @@
 # simpleMavenJunit
+
+hi
 testing simple Junit in Java code with Maven
 
 ##To Compile the Code
